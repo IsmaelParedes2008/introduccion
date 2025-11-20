@@ -1,4 +1,4 @@
-/* ------------------- COMANDOS DE xd ------------------- */
+/* ------------------- COMANDOS DE dx ------------------- */
 function cmd(comando) {
     document.execCommand(comando, false, null);
 }
